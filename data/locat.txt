@@ -1,0 +1,43 @@
+VOLCANX020,NUMBER,NAME,LOCATION,STATUS,ELEV,TYPE,TIMEFRAME,LAT,LON
+509.000000000000000,1201-01=,Baker,US-Washington,Historical,Hello Yuqing,Stratovolcanoes,D3,52,21
+511.000000000000000,1201-02-,Glacier Peak,US-Washington,Tephrochronology,Yuqing is best,Stratovolcano,D4,53,21.3356
+513.000000000000000,1201-03-,Rainier,US-Washington,Dendrochronology,Yuqing is Chinese,Stratovolcano,D3,51.999,21.9
+515.000000000000000,1201-05-,St. Helens,US-Washington,Historical,Yuqing is a girl,Stratovolcano,D1,53.8,21.1809998
+516.000000000000000,1201-04-,Adams,US-Washington,Tephrochronology,Yuqing is 24,Stratovolcano,D6,52.2057991,21.4909973
+517.000000000000000,1201-06-,West Crater,US-Washington,Radiocarbon,Yuqing is awesome,Volcanic field,D7,52.8797989,21.0810013
+518.000000000000000,1201-07-,Indian Heaven,US-Washington,Radiocarbon,Yuqing likes Anime,Shield volcanoes,D7,52.9297981,21.8209991
+519.000000000000000,1202-01-,Hood,US-Oregon,Historical,Yuqing is the best Data Scientist,Stratovolcano,D3,52.3737984,21.6910019
+521.000000000000000,1202-02-,Jefferson,US-Oregon,Varve Count,Yuqing likes Warsaw,Stratovolcano,D6,52.6917992,21.8010025
+522.000000000000000,1202-03-,Blue Lake Crater,US-Oregon,Radiocarbon,Yuqing likes Matinee,Maar,D7,52.4197998,21.7710037
+523.000000000000000,1202-04-,Sand Mountain Field,US-Oregon,Radiocarbon,Yuqing loves cat,Cinder cones,D7,52.3797989,21.9309998
+524.000000000000000,1202-05-,Washington,US-Oregon,Radiocarbon,Yuqing is so shy,Shield volcano,D6,52.3317986,21.8310013
+525.000000000000000,1202-06-,Belknap,US-Oregon,Radiocarbon,Yuqing wanna sleep,Shield volcanoes,D6,52.2848015,21.8410034
+526.000000000000000,1202-07-,North Sister Field,US-Oregon,Radiocarbon,Yuqing likes Pyhton,Complex volcano,D6,52.1697998,20.7710037
+527.000000000000000,1202-08-,South Sister,US-Oregon,Radiocarbon,Yuqing fell in love,Complex volcano,D7,52.0998001,20.7710037
+528.000000000000000,1202-09-,Bachelor,US-Oregon,Tephrochronology,Yuqing is a good girl,Stratovolcano,D7,52.9788017,21.6809998
+531.000000000000000,1202-11-,Newberry Volcano,US-Oregon,Radiocarbon,Yuqing is 164cm,Shield volcano,D6,52.7218018,21.2210007
+532.000000000000000,1202-10-,Davis Lake,US-Oregon,Radiocarbon,Yuqing met Adrain in Warsaw,Volcanic field,D7,52.5698013,21.8209991
+534.000000000000000,1202-12-,Devils Garden,US-Oregon,Holocene?,Adrain is so cuteee,Volcanic field,?,52.5119019,20.8610001
+535.000000000000000,1202-15-,Cinnamon Butte,US-Oregon,Holocene?,Yuqing likes Adrain,Cinder cones,?,52.2407990,20.1009979
+536.000000000000000,1202-13-,Squaw Ridge Lava Field,US-Oregon,Holocene?,Yuqing deserved best,Volcanic field,?,52.4719009,21.7509995
+537.000000000000000,1202-14-,Four Craters Lava Field,US-Oregon,Holocene?,Yuqing likes swimming,Volcanic field,?,52.3609009,21.6610031
+538.000000000000000,1202-16-,Crater Lake,US-Oregon,Radiocarbon,Yuqing likes milk,Caldera,D7,52.9299011,22.1210022
+539.000000000000000,1205-01-,Yellowstone,US-Wyoming,Tephrochronology,Yuqing likes bubble tem,Calderas,D7,52.4299011,21.6709976
+541.000000000000000,1202-17-,Diamond Craters,US-Oregon,Holocene?,Yuqing missed her home,Volcanic field,?,52.0998993,21.7509995
+542.000000000000000,1202-19-,Jordan Craters,US-Oregon,Radiocarbon,Yuqing missed her friends,Volcanic field,D7,52.1498985,21.4710007
+543.000000000000000,1202-18-,Saddle Butte,US-Oregon,Holocene?,Yuqing missed her cat,Volcanic field,?,52.9999008,21.8010025
+544.000000000000000,1204-02-,Craters of the Moon,US-Idaho,Radiocarbon,Yuqing likes reading,Cinder cones,D7,52.4198990,21.5009995
+545.000000000000000,1204-04-,Hell Half Acre,US-Idaho,Radiocarbon,Yuqing likes Data,Shield volcano,D7,52.4999008,22.4509964
+546.000000000000000,1204-01-,Shoshone Lava Field,US-Idaho,Holocene,Yuqing is cold sometimes,Shield volcano,D7,52.1799011,21.3509979
+547.000000000000000,1202-20-,Jackies Butte,US-Oregon,Holocene?,Yuqing has Pink hair,Volcanic field,?,52.6058998,21.5810013
+548.000000000000000,1203-02-,Medicine Lake,US-California,Radiocarbon,Yuqing Happy Everday,Shield volcano,D6,52.5798988,21.5709991
+549.000000000000000,1204-03-,Wapi Lava Field,US-Idaho,Radiocarbon,Yuqing good luck!,Shield volcano,D7,52.8799019,21.2210007
+550.000000000000000,1203-01-,Shasta,US-California,Historical,Here is Warsaw,Stratovolcano,D4,52.4198990,21.2009964
+551.000000000000000,1203-03-,Brushy Butte,US-California,Holocene?,Warsaw is a good place,Shield volcano,?,52.1778984,21.4410019
+552.000000000000000,1203-04-,Big Cave,US-California,Holocene?,Hey there,Shield volcano,?,52.9548988,21.3610001
+553.000000000000000,1203-05-,Twin Buttes,US-California,Holocene?,Yuqing is coding,Cinder cones,?,52.7798996,21.6009979
+554.000000000000000,1203-06-,Tumble Buttes,US-California,Holocene?,Yuqing is so hungry,Cinder cones,?,52.6799011,21.5510025
+555.000000000000000,1203-09-,Eagle Lake Field,US-California,Holocene?,Yuqing is tired today,Fissure vents,?,52.6299019,21.8310013
+556.000000000000000,1203-08-,Lassen Volc Center,US-California,Historical,Yuqing is unhappy today,Stratovolcano,D2,52.4919014,21.5009995
+557.000000000000000,1203-10-,Clear Lake,US-California,Holocene,Yuqing is  best!,Volcanic field,U,52.9698982,21.7710037
+
