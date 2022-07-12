@@ -1,0 +1,73 @@
+##############################################################
+# APP1 >> Interactive Mapping of Population and Volcanoes
+# Author >> Yuqing
+# Date >> 12/07/2022
+##############################################################
+
+
+##############################################################
+# Necessary Library
+###############################################################
+import folium
+import pandas
+
+
+##############################################################
+# lat and lon in warsaw
+###############################################################
+data = pandas.read_csv("C:\\Users\\Admin\\Desktop\\Yuqing\\Data\\locat.txt")
+
+lat = list(data["LAT"])
+lon = list(data["LON"])
+elev = list(data["ELEV"])
+
+# the color of markets
+def color_producer(elevation):
+    if len(elevation) < 15:
+        return 'green'
+    elif 15<= len(elevation)<=25:
+        return 'pink'
+    else:
+        return 'red'  # :)
+
+##############################################################
+# Create a basic web map 
+###############################################################
+map = folium.Map(location = [52.208786, 21.008371], zoom_start=6, titles = "Mapbox Bright") # SGH
+
+fgv = folium.FeatureGroup(name = "My Map for Poland")
+
+
+for lt,ln,el in zip(lat,lon, elev):
+    fgv.add_child(folium.Marker(location  = [lt,ln],  
+                                  popup  = str(el), 
+                                  radius = 6,
+                                   color = 'grey',
+                            fill_opacity = 0.7,
+                                    icon = folium.Icon(color=color_producer(el))))
+
+
+
+
+# import Jason file which contain the all cpuntries in the world.
+fgp = folium.FeatureGroup(name = "All countires in  the world")
+
+
+fgp.add_child(folium.GeoJson(data=open("C:\\Users\\Admin\\Desktop\\Yuqing\\Data\\world.json", "r", encoding='utf-8-sig').read(),
+style_function = lambda x:{'fillcolor':'red' if x['properties']['NAME'] == "Poland" else 'yellow'} ))  
+
+
+
+map.add_child(fgv)
+map.add_child(fgp)
+map.add_child(folium.LayerControl())  # adding mymap layer
+
+map.save("Map1.html")
+
+
+
+
+
+
+
+
